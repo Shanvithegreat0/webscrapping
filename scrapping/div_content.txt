@@ -1,0 +1,369 @@
+<div id="particles-js">
+<div class="header">
+<h1>
+<span class="site-title">Shanvi Shukla</span>
+<span class="site-description">AI developer • Web Developer • Android Developer</span>
+</h1>
+<div class="header-icons">
+<a aria-label="My LinkedIn Profile" href="https://www.linkedin.com/in/shanvi-shukla-04b473231" target="_blank">
+<i aria-hidden="true" class="icon fa fa-linkedin"></i>
+</a>
+<a aria-label="My Github Profile" href="https://github.com/Shanvithegreat0" target="_blank">
+<i aria-hidden="true" class="icon fa fa-github-alt"></i>
+</a>
+<a aria-label="My Résumé" href="resume.html" target="_blank">
+<i aria-hidden="true" class="icon fa fa fa-file-pdf-o"></i>
+</a>
+<a aria-label="Send Email" href="mailto:shanvishukla39@gmail.com" target="_blank"><i class="icon fa fa-envelope"></i></a>
+</div>
+<div class="header-links">
+<a class="link" data-scroll="" href="#about">About Me</a>
+<a class="link" data-scroll="" href="#projects">Projects</a>
+</div>
+</div>
+<a class="down" data-scroll="" href="#about"><i aria-hidden="true" class="icon fa fa-chevron-down"></i></a>
+</div>
+
+<div class="header">
+<h1>
+<span class="site-title">Shanvi Shukla</span>
+<span class="site-description">AI developer • Web Developer • Android Developer</span>
+</h1>
+<div class="header-icons">
+<a aria-label="My LinkedIn Profile" href="https://www.linkedin.com/in/shanvi-shukla-04b473231" target="_blank">
+<i aria-hidden="true" class="icon fa fa-linkedin"></i>
+</a>
+<a aria-label="My Github Profile" href="https://github.com/Shanvithegreat0" target="_blank">
+<i aria-hidden="true" class="icon fa fa-github-alt"></i>
+</a>
+<a aria-label="My Résumé" href="resume.html" target="_blank">
+<i aria-hidden="true" class="icon fa fa fa-file-pdf-o"></i>
+</a>
+<a aria-label="Send Email" href="mailto:shanvishukla39@gmail.com" target="_blank"><i class="icon fa fa-envelope"></i></a>
+</div>
+<div class="header-links">
+<a class="link" data-scroll="" href="#about">About Me</a>
+<a class="link" data-scroll="" href="#projects">Projects</a>
+</div>
+</div>
+
+<div class="header-icons">
+<a aria-label="My LinkedIn Profile" href="https://www.linkedin.com/in/shanvi-shukla-04b473231" target="_blank">
+<i aria-hidden="true" class="icon fa fa-linkedin"></i>
+</a>
+<a aria-label="My Github Profile" href="https://github.com/Shanvithegreat0" target="_blank">
+<i aria-hidden="true" class="icon fa fa-github-alt"></i>
+</a>
+<a aria-label="My Résumé" href="resume.html" target="_blank">
+<i aria-hidden="true" class="icon fa fa fa-file-pdf-o"></i>
+</a>
+<a aria-label="Send Email" href="mailto:shanvishukla39@gmail.com" target="_blank"><i class="icon fa fa-envelope"></i></a>
+</div>
+
+<div class="header-links">
+<a class="link" data-scroll="" href="#about">About Me</a>
+<a class="link" data-scroll="" href="#projects">Projects</a>
+</div>
+
+<div class="user-details">
+<h1>My Story</h1>
+<picture>
+<source alt="Professional Me" secset="Polish_20230719_011135903.jpg" style="border-radius: 50%" type="image/webp" width="20%"/>
+<img alt="Professional Me" src="Polish_20230719_011135903.jpg" style="border-radius: 50%" width="20%"/>
+</picture>
+<p>
+          I am an android as well as web developer , enthusiastic about learning and innovating new solutions to the worldly as well as local problems.
+          My interests include Flutter development and Artificial intelligence .I consider AI/ML to be the future 
+          hence is currently innovating new solutions using this fields . My projects contain the glimpse of some AI as well.
+        </p>
+</div>
+
+<div class="user">
+<!-- Technology Stack #1: Languages -->
+<div class="tech">
+<h2>Languages</h2>
+<i class="devicon-java-plain-wordmark colored"></i>
+<i class="devicon-python-plain colored"></i>
+<i class="devicon-cplusplus-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<p>My favorite languages for systems programming, software engineering, and data analysis.</p>
+</div>
+<!-- Technology Stack #2: Front-End -->
+<div class="tech">
+<h2>Front-End</h2>
+<i class="devicon-react-original colored"></i>
+<i class="devicon-nodejs-plain-wordmark colored"></i>
+<i class="devicon-html5-plain-wordmark colored"></i>
+<i class="devicon-css3-plain-wordmark colored"></i>
+<p>My preferred technologies for front-end web development and component design.</p>
+</div>
+<!-- Technology Stack #3: Back-End -->
+<div class="tech">
+<h2>Back-End</h2>
+<i class="devicon-nodejs-plain colored"></i>
+<i class="devicon-tenserflow-original-wordmark colored"></i>
+<i class="devicon-mongodb-plain-wordmark colored"></i>
+<i class="devicon-postgresql-plain-wordmark colored"></i>
+<p>My preferred technologies for back-end web programming and database architecture.</p>
+</div>
+<!-- Technology Stack #4: Tools -->
+<div class="tech">
+<h2>Tools</h2>
+<i class="devicon-git-plain-wordmark colored"></i>
+<i class="devicon-visualstudio-plain colored"></i>
+<i class="devicon-github-plain-wordmark colored"></i>
+<i class="devicon-docker-plain-wordmark colored"></i>
+<p>My favorite tools for version control, code editing, and container orchestration.</p>
+</div>
+</div>
+
+<div class="tech">
+<h2>Languages</h2>
+<i class="devicon-java-plain-wordmark colored"></i>
+<i class="devicon-python-plain colored"></i>
+<i class="devicon-cplusplus-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<p>My favorite languages for systems programming, software engineering, and data analysis.</p>
+</div>
+
+<div class="tech">
+<h2>Front-End</h2>
+<i class="devicon-react-original colored"></i>
+<i class="devicon-nodejs-plain-wordmark colored"></i>
+<i class="devicon-html5-plain-wordmark colored"></i>
+<i class="devicon-css3-plain-wordmark colored"></i>
+<p>My preferred technologies for front-end web development and component design.</p>
+</div>
+
+<div class="tech">
+<h2>Back-End</h2>
+<i class="devicon-nodejs-plain colored"></i>
+<i class="devicon-tenserflow-original-wordmark colored"></i>
+<i class="devicon-mongodb-plain-wordmark colored"></i>
+<i class="devicon-postgresql-plain-wordmark colored"></i>
+<p>My preferred technologies for back-end web programming and database architecture.</p>
+</div>
+
+<div class="tech">
+<h2>Tools</h2>
+<i class="devicon-git-plain-wordmark colored"></i>
+<i class="devicon-visualstudio-plain colored"></i>
+<i class="devicon-github-plain-wordmark colored"></i>
+<i class="devicon-docker-plain-wordmark colored"></i>
+<p>My favorite tools for version control, code editing, and container orchestration.</p>
+</div>
+
+<div class="user-details">
+<h1>Featured Projects</h1>
+</div>
+
+<div class="user-projects">
+<div class="images-right">
+<picture>
+<source alt="Personal Website" srcset="https://lh3.googleusercontent.com/VWsw5X118C6YSAIaDWz9Vxcvaisgtibynm4H8TiCSNkMzsYbCx77AS5A9T7gpWlowo89rioKgQO0w6isyJhirChdVSunXtjD-1ny0vamAhWm8XoQmYHduCPy6RyK_oHWs3Oiy2-Pdi44l2v3XYVsYTfyv2GWFraZu7xNgncD50ScyJMEHvljffTf0IXtZV6n2dOhzULEqo-41oKj4oWW7-1pdwIn4t6pUSLrt_a-9H7skk1oo00DdijWAkeViVg9lZVbLHGKemujyQR1RfyBDPLQftjND6OsDBlZiwW2FD86-sG6Og3C4OE3eUaL6hn72a9zIfaT4UWye0W7Q4m3_ARtgbU7mKzqEapqYFuM4EDGFZb6URVIuwAtdKgbcrjyL2g2qtrik4lv2pW6PBRXWunQseSjJSqPBKr9ErXEa0NrBgDV_1NyaERVM6NvGsFwwYAJkSmdDZ4Bt1eXqsgbTnWa7D4H2d216n8UWeVENMjGxBZUGi7xhkIfropz08VpAHNGpy2cAzn15LMld62uMzH784kcHuyrG1PsGX1NliDCsP1DOH6d5pobbQwD_wcYTMFd9ftHdCoc5Z_K2PmAXiJiJjgoKWWArbsiiDOGN92q2pOROLjItoaMUc3ZsxrD_pJYDVol4yU33EsuijkkR2jrjIpKtyxnWx763xL-7eXAylYkzSF6VVvFT3IkkOUurRauVFDJzFB_9ZSkPDKZKnIwlFmuJotEnxeUXpjGK7UouZcrB6I6ADn0Ao8hIrjBe52035lvZdnKGbX6dppqmtGFQ8jmS9gNL28h90qAoqvBwQzEw9O7IXMHPgzCkKavLh8MF4I3KHQ_19LqQF-WvDHESgXYu0Eeq8h8PIWIF5heaQajXNEzTNnpI1l_m3XNgf6CimEevzusCqz5EPsJYiYa5wuLCVfHNK9VtWe5zVO5cw=w1879-h814-no?authuser=0" type="image/webp"/>
+<img alt="Personal Website" src="https://lh3.googleusercontent.com/VWsw5X118C6YSAIaDWz9Vxcvaisgtibynm4H8TiCSNkMzsYbCx77AS5A9T7gpWlowo89rioKgQO0w6isyJhirChdVSunXtjD-1ny0vamAhWm8XoQmYHduCPy6RyK_oHWs3Oiy2-Pdi44l2v3XYVsYTfyv2GWFraZu7xNgncD50ScyJMEHvljffTf0IXtZV6n2dOhzULEqo-41oKj4oWW7-1pdwIn4t6pUSLrt_a-9H7skk1oo00DdijWAkeViVg9lZVbLHGKemujyQR1RfyBDPLQftjND6OsDBlZiwW2FD86-sG6Og3C4OE3eUaL6hn72a9zIfaT4UWye0W7Q4m3_ARtgbU7mKzqEapqYFuM4EDGFZb6URVIuwAtdKgbcrjyL2g2qtrik4lv2pW6PBRXWunQseSjJSqPBKr9ErXEa0NrBgDV_1NyaERVM6NvGsFwwYAJkSmdDZ4Bt1eXqsgbTnWa7D4H2d216n8UWeVENMjGxBZUGi7xhkIfropz08VpAHNGpy2cAzn15LMld62uMzH784kcHuyrG1PsGX1NliDCsP1DOH6d5pobbQwD_wcYTMFd9ftHdCoc5Z_K2PmAXiJiJjgoKWWArbsiiDOGN92q2pOROLjItoaMUc3ZsxrD_pJYDVol4yU33EsuijkkR2jrjIpKtyxnWx763xL-7eXAylYkzSF6VVvFT3IkkOUurRauVFDJzFB_9ZSkPDKZKnIwlFmuJotEnxeUXpjGK7UouZcrB6I6ADn0Ao8hIrjBe52035lvZdnKGbX6dppqmtGFQ8jmS9gNL28h90qAoqvBwQzEw9O7IXMHPgzCkKavLh8MF4I3KHQ_19LqQF-WvDHESgXYu0Eeq8h8PIWIF5heaQajXNEzTNnpI1l_m3XNgf6CimEevzusCqz5EPsJYiYa5wuLCVfHNK9VtWe5zVO5cw=w1879-h814-no?authuser=0"/>
+</picture>
+</div>
+<div class="contents" style="text-align: center">
+<h3>No Mic</h3>
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/react.svg" style="filter: invert(73%) sepia(74%) saturate(1552%) hue-rotate(169deg) brightness(109%) contrast(97%)" width="32"/>
+             
+            <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/bootstrap.svg" style="filter: invert(24%) sepia(14%) saturate(2270%) hue-rotate(222deg) brightness(102%) contrast(90%)" width="32"/>
+             
+            <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" width="32"/>
+</div>
+<p style="text-align: justify">
+            This is a completly new innovation idea with patent rights, The idea was to solve the problem of 
+            passing the mic during a seminar or event among the audience in order to reply to speaker's Questions 
+            Instead of passing the mic, The audience can directly speak in this platform and the voice will be 
+            heard in the speaker. The platform will also contain the audience analysis method so that the host
+            might know the what topics need to be covered. This will replace the mic completely.
+          </p>
+<a class="project-link" href="#" target="_blank">Check it out!</a>
+</div>
+</div>
+
+<div class="images-right">
+<picture>
+<source alt="Personal Website" srcset="https://lh3.googleusercontent.com/VWsw5X118C6YSAIaDWz9Vxcvaisgtibynm4H8TiCSNkMzsYbCx77AS5A9T7gpWlowo89rioKgQO0w6isyJhirChdVSunXtjD-1ny0vamAhWm8XoQmYHduCPy6RyK_oHWs3Oiy2-Pdi44l2v3XYVsYTfyv2GWFraZu7xNgncD50ScyJMEHvljffTf0IXtZV6n2dOhzULEqo-41oKj4oWW7-1pdwIn4t6pUSLrt_a-9H7skk1oo00DdijWAkeViVg9lZVbLHGKemujyQR1RfyBDPLQftjND6OsDBlZiwW2FD86-sG6Og3C4OE3eUaL6hn72a9zIfaT4UWye0W7Q4m3_ARtgbU7mKzqEapqYFuM4EDGFZb6URVIuwAtdKgbcrjyL2g2qtrik4lv2pW6PBRXWunQseSjJSqPBKr9ErXEa0NrBgDV_1NyaERVM6NvGsFwwYAJkSmdDZ4Bt1eXqsgbTnWa7D4H2d216n8UWeVENMjGxBZUGi7xhkIfropz08VpAHNGpy2cAzn15LMld62uMzH784kcHuyrG1PsGX1NliDCsP1DOH6d5pobbQwD_wcYTMFd9ftHdCoc5Z_K2PmAXiJiJjgoKWWArbsiiDOGN92q2pOROLjItoaMUc3ZsxrD_pJYDVol4yU33EsuijkkR2jrjIpKtyxnWx763xL-7eXAylYkzSF6VVvFT3IkkOUurRauVFDJzFB_9ZSkPDKZKnIwlFmuJotEnxeUXpjGK7UouZcrB6I6ADn0Ao8hIrjBe52035lvZdnKGbX6dppqmtGFQ8jmS9gNL28h90qAoqvBwQzEw9O7IXMHPgzCkKavLh8MF4I3KHQ_19LqQF-WvDHESgXYu0Eeq8h8PIWIF5heaQajXNEzTNnpI1l_m3XNgf6CimEevzusCqz5EPsJYiYa5wuLCVfHNK9VtWe5zVO5cw=w1879-h814-no?authuser=0" type="image/webp"/>
+<img alt="Personal Website" src="https://lh3.googleusercontent.com/VWsw5X118C6YSAIaDWz9Vxcvaisgtibynm4H8TiCSNkMzsYbCx77AS5A9T7gpWlowo89rioKgQO0w6isyJhirChdVSunXtjD-1ny0vamAhWm8XoQmYHduCPy6RyK_oHWs3Oiy2-Pdi44l2v3XYVsYTfyv2GWFraZu7xNgncD50ScyJMEHvljffTf0IXtZV6n2dOhzULEqo-41oKj4oWW7-1pdwIn4t6pUSLrt_a-9H7skk1oo00DdijWAkeViVg9lZVbLHGKemujyQR1RfyBDPLQftjND6OsDBlZiwW2FD86-sG6Og3C4OE3eUaL6hn72a9zIfaT4UWye0W7Q4m3_ARtgbU7mKzqEapqYFuM4EDGFZb6URVIuwAtdKgbcrjyL2g2qtrik4lv2pW6PBRXWunQseSjJSqPBKr9ErXEa0NrBgDV_1NyaERVM6NvGsFwwYAJkSmdDZ4Bt1eXqsgbTnWa7D4H2d216n8UWeVENMjGxBZUGi7xhkIfropz08VpAHNGpy2cAzn15LMld62uMzH784kcHuyrG1PsGX1NliDCsP1DOH6d5pobbQwD_wcYTMFd9ftHdCoc5Z_K2PmAXiJiJjgoKWWArbsiiDOGN92q2pOROLjItoaMUc3ZsxrD_pJYDVol4yU33EsuijkkR2jrjIpKtyxnWx763xL-7eXAylYkzSF6VVvFT3IkkOUurRauVFDJzFB_9ZSkPDKZKnIwlFmuJotEnxeUXpjGK7UouZcrB6I6ADn0Ao8hIrjBe52035lvZdnKGbX6dppqmtGFQ8jmS9gNL28h90qAoqvBwQzEw9O7IXMHPgzCkKavLh8MF4I3KHQ_19LqQF-WvDHESgXYu0Eeq8h8PIWIF5heaQajXNEzTNnpI1l_m3XNgf6CimEevzusCqz5EPsJYiYa5wuLCVfHNK9VtWe5zVO5cw=w1879-h814-no?authuser=0"/>
+</picture>
+</div>
+
+<div class="contents" style="text-align: center">
+<h3>No Mic</h3>
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/react.svg" style="filter: invert(73%) sepia(74%) saturate(1552%) hue-rotate(169deg) brightness(109%) contrast(97%)" width="32"/>
+             
+            <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/bootstrap.svg" style="filter: invert(24%) sepia(14%) saturate(2270%) hue-rotate(222deg) brightness(102%) contrast(90%)" width="32"/>
+             
+            <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" width="32"/>
+</div>
+<p style="text-align: justify">
+            This is a completly new innovation idea with patent rights, The idea was to solve the problem of 
+            passing the mic during a seminar or event among the audience in order to reply to speaker's Questions 
+            Instead of passing the mic, The audience can directly speak in this platform and the voice will be 
+            heard in the speaker. The platform will also contain the audience analysis method so that the host
+            might know the what topics need to be covered. This will replace the mic completely.
+          </p>
+<a class="project-link" href="#" target="_blank">Check it out!</a>
+</div>
+
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/react.svg" style="filter: invert(73%) sepia(74%) saturate(1552%) hue-rotate(169deg) brightness(109%) contrast(97%)" width="32"/>
+             
+            <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/bootstrap.svg" style="filter: invert(24%) sepia(14%) saturate(2270%) hue-rotate(222deg) brightness(102%) contrast(90%)" width="32"/>
+             
+            <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" width="32"/>
+</div>
+
+<div class="user-projects">
+<div class="images-left">
+<picture>
+<source alt="Kisaan Pragati" srcset="https://user-images.githubusercontent.com/103589784/211022549-3c4887a6-dd9c-4e3d-a6e8-af40985975f5.png" type="image/webp"/>
+<img alt="Kisaan Pragati" src="https://user-images.githubusercontent.com/103589784/211022549-3c4887a6-dd9c-4e3d-a6e8-af40985975f5.png"/>
+</picture>
+</div>
+<div class="contents-right" style="text-align: center">
+<h3>Kisaan Pragati</h3>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/react.svg" style="filter: invert(73%) sepia(74%) saturate(1552%) hue-rotate(169deg) brightness(109%) contrast(97%)" width="32"/>
+           
+          <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" style="filter: invert(33%) sepia(29%) saturate(3844%) hue-rotate(184deg) brightness(90%) contrast(84%)" width="32"/>
+           
+          <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" width="32"/>
+<p style="text-align: justify">
+            This project was created as an interface provided between the farmers and the nearby 
+            Hotels and Dhabas. The farmers can display their crops and qaultiy online and the buyers 
+            can buy directly . Also the app contain an animative game to educate farmers regarding 
+            fertilizers.It conatains soild data indexing and other features too.
+          </p>
+<a class="project-link" href="http://kisaanpragati.co/index.html" target="_blank">Check it out!</a>
+</div>
+</div>
+
+<div class="images-left">
+<picture>
+<source alt="Kisaan Pragati" srcset="https://user-images.githubusercontent.com/103589784/211022549-3c4887a6-dd9c-4e3d-a6e8-af40985975f5.png" type="image/webp"/>
+<img alt="Kisaan Pragati" src="https://user-images.githubusercontent.com/103589784/211022549-3c4887a6-dd9c-4e3d-a6e8-af40985975f5.png"/>
+</picture>
+</div>
+
+<div class="contents-right" style="text-align: center">
+<h3>Kisaan Pragati</h3>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/react.svg" style="filter: invert(73%) sepia(74%) saturate(1552%) hue-rotate(169deg) brightness(109%) contrast(97%)" width="32"/>
+           
+          <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" style="filter: invert(33%) sepia(29%) saturate(3844%) hue-rotate(184deg) brightness(90%) contrast(84%)" width="32"/>
+           
+          <img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/github.svg" width="32"/>
+<p style="text-align: justify">
+            This project was created as an interface provided between the farmers and the nearby 
+            Hotels and Dhabas. The farmers can display their crops and qaultiy online and the buyers 
+            can buy directly . Also the app contain an animative game to educate farmers regarding 
+            fertilizers.It conatains soild data indexing and other features too.
+          </p>
+<a class="project-link" href="http://kisaanpragati.co/index.html" target="_blank">Check it out!</a>
+</div>
+
+<div class="user-projects">
+<div class="images-right">
+<picture>
+<source alt="Neuplants" srcset="https://user-images.githubusercontent.com/103589784/215843086-12906e51-684d-41fc-a2aa-5e6b73f656d6.png" type="image/webp"/>
+<img alt="COVID-19 Tracker App" src="https://user-images.githubusercontent.com/103589784/215843086-12906e51-684d-41fc-a2aa-5e6b73f656d6.png"/>
+</picture>
+</div>
+<div class="contents" style="text-align: center">
+<h3>Neuplants</h3>
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/javascript.svg" style="filter: invert(96%) sepia(47%) saturate(4151%) hue-rotate(338deg) brightness(100%) contrast(95%)" width="32"/>
+</div>
+<p style="text-align: justify">
+            The project was to implement a plant disease scanner in the water tanker used to water plants 
+            on road divider . the camera on tanker will be connected to our app server hence the images 
+            will be scanned one by one and database will be stored of each plant .The web app will tell the 
+            most needed fertilizers and the disease affecting the area plants most.
+          </p>
+<a class="project-link" href="https://www.neuplants.co" target="_blank">
+            Check it out!
+          </a>
+</div>
+</div>
+
+<div class="images-right">
+<picture>
+<source alt="Neuplants" srcset="https://user-images.githubusercontent.com/103589784/215843086-12906e51-684d-41fc-a2aa-5e6b73f656d6.png" type="image/webp"/>
+<img alt="COVID-19 Tracker App" src="https://user-images.githubusercontent.com/103589784/215843086-12906e51-684d-41fc-a2aa-5e6b73f656d6.png"/>
+</picture>
+</div>
+
+<div class="contents" style="text-align: center">
+<h3>Neuplants</h3>
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/javascript.svg" style="filter: invert(96%) sepia(47%) saturate(4151%) hue-rotate(338deg) brightness(100%) contrast(95%)" width="32"/>
+</div>
+<p style="text-align: justify">
+            The project was to implement a plant disease scanner in the water tanker used to water plants 
+            on road divider . the camera on tanker will be connected to our app server hence the images 
+            will be scanned one by one and database will be stored of each plant .The web app will tell the 
+            most needed fertilizers and the disease affecting the area plants most.
+          </p>
+<a class="project-link" href="https://www.neuplants.co" target="_blank">
+            Check it out!
+          </a>
+</div>
+
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/javascript.svg" style="filter: invert(96%) sepia(47%) saturate(4151%) hue-rotate(338deg) brightness(100%) contrast(95%)" width="32"/>
+</div>
+
+<div class="user-projects">
+<div class="images-left">
+<picture>
+<source alt="Valuto: Account Management System" srcset="./assets/img/webp/Valuto-Account-Management.webp" type="image/webp"/>
+<img alt="Valuto: Account Management System" src="./assets/img/jpg/Valuto-Account-Management.jpg"/>
+</picture>
+</div>
+<div class="contents-right" style="text-align: center">
+<h3>Valuto: Account Management System</h3>
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/cplusplus.svg" style="filter: invert(22%) sepia(77%) saturate(1486%) hue-rotate(183deg) brightness(101%) contrast(103%)" width="32"/>
+</div>
+<p style="text-align: justify">
+            I developed a CLI system for accounting management and financial statement maintenance. The purpose of the
+            system is to maintain a record of the funds received, used, disseminated and donated by an organization.
+            Details of transactions and maintenance of a budget and tallying of current balance/inventory in cash/kind
+            is incorporated in this system.
+          </p>
+<a class="project-link" href="#" target="_blank">
+            Check it out!
+          </a>
+</div>
+</div>
+
+<div class="images-left">
+<picture>
+<source alt="Valuto: Account Management System" srcset="./assets/img/webp/Valuto-Account-Management.webp" type="image/webp"/>
+<img alt="Valuto: Account Management System" src="./assets/img/jpg/Valuto-Account-Management.jpg"/>
+</picture>
+</div>
+
+<div class="contents-right" style="text-align: center">
+<h3>Valuto: Account Management System</h3>
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/cplusplus.svg" style="filter: invert(22%) sepia(77%) saturate(1486%) hue-rotate(183deg) brightness(101%) contrast(103%)" width="32"/>
+</div>
+<p style="text-align: justify">
+            I developed a CLI system for accounting management and financial statement maintenance. The purpose of the
+            system is to maintain a record of the funds received, used, disseminated and donated by an organization.
+            Details of transactions and maintenance of a budget and tallying of current balance/inventory in cash/kind
+            is incorporated in this system.
+          </p>
+<a class="project-link" href="#" target="_blank">
+            Check it out!
+          </a>
+</div>
+
+<div>
+<img height="32" src="https://unpkg.com/simple-icons@3.4.0/icons/cplusplus.svg" style="filter: invert(22%) sepia(77%) saturate(1486%) hue-rotate(183deg) brightness(101%) contrast(103%)" width="32"/>
+</div>
+
