@@ -1,57 +1,75 @@
-import fitz  # PyMuPDF
+import pdfplumber
 import re
+import os
+import json
 
 def extract_information(text):
-    # Extract Name
-    name_match = re.search(r'Name: (.+)', text)
-    name = name_match.group(1) if name_match else 'N/A'
+    # Initialize variables to store extracted data
+    extracted_data = {}
 
-    # Extract Education details
-    education_match = re.search(r'Education: (.+)', text)
-    education = education_match.group(1) if education_match else 'N/A'
+    # Define patterns for extracting information
+    patterns = {
+        "Name": r'(\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\b',
+        "Education": r'EDUCATION(?:\s*SKILLS)?\s*(.*?)(?=WORK EXPERIENCE|\bACHIEVEMENTS\b|$)',
+        "Work Experience": r'WORK EXPERIENCE\s*(.*?)(?=ACHIEVEMENTS|$)',
+    }
 
-    # Extract Work experience
-    experience_match = re.search(r'Work Experience: (.+)', text)
-    experience = experience_match.group(1) if experience_match else 'N/A'
+    # Extract information using regular expressions
+    for key, pattern in patterns.items():
+        match = re.search(pattern, text, re.DOTALL | re.IGNORECASE)
+        extracted_data[key] = match.group(1).strip() if match else 'N/A'
 
-    return name, education, experience
+    return extracted_data
 
 def scrape_pdf(file_path):
-    pdf_document = None
+    raw_text_data = ""
 
     try:
         # Open the PDF file
-        pdf_document = fitz.open(file_path)
+        with pdfplumber.open(file_path) as pdf_document:
+            # Iterate through each page and extract text
+            for page_number in range(len(pdf_document.pages)):
+                page = pdf_document.pages[page_number]
+                text = page.extract_text()
 
-        # Iterate through each page and extract text
-        for page_number in range(pdf_document.page_count):
-            page = pdf_document[page_number]
-            text = page.get_text()
+                # Append raw text to the variable
+                raw_text_data += f"Raw Text from Page {page_number + 1}:\n{text}\n{'='*50}\n"
 
-            # Print raw text for debugging
-            print(f"Raw Text from Page {page_number + 1}:\n{text}\n{'='*50}")
+                # Print raw text for debugging
+                print(f"Raw Text from Page {page_number + 1}:\n{text}\n{'='*50}\n")
 
-            # Extract information from the text
-            name, education, experience = extract_information(text)
+                # Extract information from the text
+                extracted_data = extract_information(text)
 
-            # Print or process the extracted information as needed
-            print(f"Page {page_number + 1} - Name: {name}\nEducation: {education}\nWork Experience: {experience}")
-            print('='*50)
+                # Print or process the extracted information as needed
+                print(f"Page {page_number + 1} - Extracted Data: {extracted_data}")
+                print('='*50)
 
     except Exception as e:
         print(f"Error: {e}")
 
-    finally:
-        # Close the PDF document if it was opened successfully
-        if pdf_document:
-            pdf_document.close()
+    return raw_text_data, extracted_data
 
 def main():
     # Get user input for the PDF file path
-    pdf_file_path = input("Enter the path of the PDF file on your desktop: ")
+    pdf_file_path = input("Enter the path of the PDF file: ")
 
     # Call the function to scrape the PDF
-    scrape_pdf(pdf_file_path)
+    raw_text_data, extracted_data = scrape_pdf(pdf_file_path)
+
+    # Save raw text data to a text file
+    with open('raw_text_data.txt', 'w', encoding='utf-8') as file:
+        file.write(raw_text_data)
+
+    # Convert extracted data to JSON format
+    json_data = json.dumps(extracted_data, indent=4)
+
+    # Save JSON data to a file
+    with open('extracted_data.json', 'w') as json_file:
+        json_file.write(json_data)
+
+    # Delete the raw text file
+    os.remove('raw_text_data.txt')
 
 if __name__ == "__main__":
     main()
